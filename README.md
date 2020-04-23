@@ -37,9 +37,9 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to implement a neural network in TensorFlow. 
 
   Code:
-  + [Week 1 - Initialization](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
-  + [Week 1 - Regularization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
-  + [Week 1 - Gradient Checking](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.ipynb)
+  + [Week 1 - Initialization](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
+  + [Week 1 - Regularization](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
+  + [Week 1 - Gradient Checking](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Optimization/Gradient%2BChecking%2Bv1.ipynb)
   + [Week 2 - Optimization - v1b](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods_v1b.ipynb)
   + [Week 3 - TensorFlow - v3b](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Improving%20Deep%20Neural%20Netwroks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%203/TensorFlow_Tutorial_v3b.ipynb)
 
