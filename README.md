@@ -21,7 +21,7 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand the key parameters in a neural network's architecture. 
 
   Code:
-  + [Week 2 - Phyton Basics with Numpy](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
+  + [Week 2 - Python Basics with Numpy](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
   + [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
   + [Week 3 - Planar data classification with a hidden layer - v6c](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
   + [Week 4 - Building your Deep Neural Network: Step by Step - v8a](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
@@ -63,13 +63,13 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
   Code:
-  + [Week 1 - Convolutional Model: step by step - v2a](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynbhttps://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
-  + [Week 1 - Convolutional Model: application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  + [Week 2 - Keras - Tutorial - Happy House](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
-  + [Week 2 - Residual Networks](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.ipynb)
-  + [Week 3 - Autonomous driving application - Car detection](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)
-  + [Week 4 - Face Recognition for the Happy House - v3](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
-  + [Week 4 - Art Generation with Neural Style Transfer - v2.ipynb](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+  + [Week 1 - Convolutional Model: step by step - v2a](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
+  + [Week 1 - Convolutional Model: application](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
+  + [Week 2 - Keras - Tutorial - Happy House](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%202/Keras%20Tutorial/Keras_Tutorial_v2a.ipynb)
+  + [Week 2 - Residual Networks](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks_v2a.ipynb)
+  + [Week 3 - Autonomous driving application - Car detection](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%203/Autonomous_driving_application_Car_detection_v3a.ipynb)
+  + [Week 4 - Face Recognition for the Happy House - v3](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
+  + [Week 4 - Art Generation with Neural Style Transfer - v2.ipynb](https://github.com/chandan2294/Deep-Learning-Coursera-/blob/master/Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
   
 - **Course 5: Sequence Models**
